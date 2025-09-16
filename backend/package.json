@@ -1,0 +1,30 @@
+{
+  "name": "leetcode-spaced-repetition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "nodemon": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoutaiA/leetcode-spaced-repetition.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MoutaiA/leetcode-spaced-repetition/issues"
+  },
+  "homepage": "https://github.com/MoutaiA/leetcode-spaced-repetition#readme",
+  "devDependencies": {
+    "jest": "^30.1.3",
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "awilix": "^12.0.5",
+    "express": "^5.1.0",
+    "tslib": "^2.8.1"
+  }
+}
